@@ -1,0 +1,16 @@
+1
+cabeca
+head
+1
+1
+carro
+car
+1
+1
+rato
+mouse
+1
+1
+cachorro
+dog
+1
